@@ -1,0 +1,427 @@
+{
+  "document": {
+    "title": "2026 AHA Acute Ischemic Stroke Guideline",
+    "source_file": "2026_AHA_Acute_Stroke_Guideline.pdf",
+    "covered_range": "Section 3.1 Stroke Scales through Section 4.5 Blood Glucose Management",
+    "language": "ko",
+    "note": "권고문은 원문 의미를 보존해 한국어로 요약했으며, COR/LOE는 원문 표기를 유지함. AIS=acute ischemic stroke, IVT=intravenous thrombolysis, EVT=endovascular thrombectomy, LVO=large vessel occlusion."
+  },
+  "sections": [
+    {
+      "section_id": "3.1",
+      "section_title": "Stroke Scales",
+      "page_range_in_pdf": "pp. e26-e27",
+      "core_message": "의심 AIS에서는 NIHSS를 우선 사용해 초기 신경학적 결손과 재관류치료 후 변화를 정량화한다.",
+      "recommendations": [
+        {
+          "number": 1,
+          "cor": "1",
+          "loe": "B-NR",
+          "population": "suspected AIS",
+          "recommendation_ko": "기저 시점 및 재관류치료 후 임상 결손을 측정하기 위해 stroke severity rating scale, 가능하면 NIHSS 사용을 권고한다."
+        }
+      ],
+      "key_points": [
+        "NIHSS는 결손 정도를 표준화해 의사소통, 치료 적격성 판단, 임상 변화 추적, 합병증 위험 예측에 도움을 준다.",
+        "baseline NIHSS와 24시간 NIHSS 변화는 사망률, 독립성, 3개월 기능예후와 관련된다.",
+        "한계: posterior circulation stroke 평가, 평가자 간 신뢰도, left-brain bias, 문화적 적절성 문제가 있다.",
+        "소아에서는 PedNIHSS 연구가 있으나 추가 검증이 필요하다."
+      ]
+    },
+    {
+      "section_id": "3.2",
+      "section_title": "Initial, Vascular, and Multimodal Imaging Approaches",
+      "page_range_in_pdf": "pp. e26-e31",
+      "core_message": "초기 영상은 출혈 배제와 허혈 부담 평가를 위해 지체 없이 시행하고, LVO/EVT 판단에는 혈관영상을 빠르게 시행한다.",
+      "recommendation_groups": [
+        {
+          "group": "IVT evaluation",
+          "recommendations": [
+            {
+              "number": 1,
+              "cor": "1",
+              "loe": "A",
+              "recommendation_ko": "의심 AIS에서 재관류치료 전 intracranial hemorrhage를 배제하고 ASPECTS 등 허혈 부담을 평가하기 위해 초기 평가 시 NCCT 또는 MRI를 응급 시행한다."
+            },
+            {
+              "number": 2,
+              "cor": "1",
+              "loe": "B-NR",
+              "recommendation_ko": "병원 시스템은 응급 뇌영상이 가능한 한 빠르게, 예: 25분 이내 시행되도록 process improvement 기반 프로토콜을 갖춘다."
+            },
+            {
+              "number": 3,
+              "cor": "1",
+              "loe": "B-NR",
+              "recommendation_ko": "의심 AIS와 LVO에서 contrast-enhanced CTA/CTP는 serum creatinine 확인 때문에 지연하지 않는다."
+            },
+            {
+              "number": 4,
+              "cor": "2a",
+              "loe": "C-LD",
+              "recommendation_ko": "소아 의심 AIS에서는 LVO 확인 및 출혈성 뇌졸중/모방질환 감별을 위해 cervical/intracranial vessel MRI/MRA 응급 시행이 합리적이다."
+            },
+            {
+              "number": 5,
+              "cor": "2a",
+              "loe": "C-LD",
+              "recommendation_ko": "소아 의심 AIS에서 MRI/MRA가 즉시 가능하지 않으면, LVO 확인을 위해 cervical/intracranial vessel CT/CTA 시행이 합리적이다."
+            },
+            {
+              "number": 6,
+              "cor": "2a",
+              "loe": "B-R",
+              "recommendation_ko": "wake-up stroke 또는 LKW 기준 >4.5시간/발병시간 불명 환자 중 thrombolysis 후보에서는 MRI DWI-FLAIR mismatch로 extended-window IVT 적격성을 판단할 수 있다."
+            },
+            {
+              "number": 7,
+              "cor": "2a",
+              "loe": "B-R",
+              "recommendation_ko": "wake-up stroke 또는 LKW 기준 4.5-24시간/발병시간 불명 환자에서는 CTP 또는 MR DWI-PWI 자동 후처리 분석으로 extended-window IVT 적격성 판단에 도움을 받을 수 있다."
+            }
+          ]
+        },
+        {
+          "group": "Endovascular thrombectomy evaluation",
+          "recommendations": [
+            {
+              "number": 8,
+              "cor": "1",
+              "loe": "A",
+              "recommendation_ko": "의심 AIS와 LVO가 있고 LKW 24시간 이내라면 EVT 선택과 치료계획을 위해 cervical/intracranial vessel CT/CTA 또는 MRI/MRA를 가능한 한 빠르게 시행한다."
+            },
+            {
+              "number": 9,
+              "cor": "2a",
+              "loe": "A",
+              "recommendation_ko": "의심 AIS와 LVO가 있고 LKW 6-24시간이라면 즉시 가능할 때 CTP, MRI DWI-FLAIR mismatch 또는 MR DWI-PWI 자동 후처리 분석이 EVT 평가에 유용할 수 있다."
+            },
+            {
+              "number": 10,
+              "cor": "2b",
+              "loe": "B-R",
+              "recommendation_ko": "prehospital validated stroke severity scale상 LVO 의심, EVT 적격 환자에서는 flat-panel head CT 기반 direct-to-angiography-suite workflow를 고려할 수 있다."
+            },
+            {
+              "number": 11,
+              "cor": "2b",
+              "loe": "B-NR",
+              "recommendation_ko": "전원된 LVO 의심/EVT 적격 환자는 임상 변화나 전원 지연이 없으면 thrombectomy center 도착 후 repeat brain imaging 없이 DTAS를 고려할 수 있다."
+            }
+          ]
+        }
+      ],
+      "key_points": [
+        "NCCT는 대부분의 IVT 결정에 충분하며, 급성 ICH 배제에 빠르고 널리 적용 가능하다.",
+        "MRI 기반 프로토콜은 고자원 환경 또는 소아에서 적절할 수 있으나 CT와 유사한 속도를 달성해야 한다.",
+        "CTA/CTP는 AKI 위험 증가 근거가 뚜렷하지 않아 LVO 평가가 필요한 경우 creatinine 확인 때문에 지연하지 않는다.",
+        "4.5-24시간 IVT/EVT 판단에서는 DWI-FLAIR mismatch 또는 perfusion-core mismatch를 활용한다.",
+        "early window EVT에서는 엄격한 advanced tissue imaging이 필수는 아니며, LVO 확인과 빠른 치료가 중요하다.",
+        "DTAS는 시간 단축 가능성이 있으나 추가 검증이 필요하다."
+      ],
+      "extended_window_imaging_criteria_summary": [
+        {
+          "trial": "WAKE-UP",
+          "criterion": "DWI 양성 + FLAIR 뚜렷한 변화 없음"
+        },
+        {
+          "trial": "THAWS",
+          "criterion": "DWI 양성 + FLAIR marked change 없음"
+        },
+        {
+          "trial": "EPITHET",
+          "criterion": "PWI/DWI ratio >1.2, mismatch volume >=10 mL"
+        },
+        {
+          "trial": "ECASS-4",
+          "criterion": "PWI/DWI ratio >=1.2, PWI >=20 mL"
+        },
+        {
+          "trial": "EXTEND",
+          "criterion": "penumbra/core ratio >1.2, mismatch >10 mL, core <70 mL"
+        },
+        {
+          "trial": "TIMELESS",
+          "criterion": "penumbra/core ratio >1.8, penumbra >15 mL, core <70 mL"
+        },
+        {
+          "trial": "TRACE-III",
+          "criterion": "penumbra/core ratio >1.8, penumbra >15 mL, core <70 mL"
+        }
+      ]
+    },
+    {
+      "section_id": "3.3",
+      "section_title": "Other Diagnostic Tests",
+      "page_range_in_pdf": "p. e31",
+      "core_message": "ECG와 troponin은 기본 평가로 권고되지만 IVT/EVT를 지연시키면 안 된다.",
+      "recommendations": [
+        {
+          "number": 1,
+          "cor": "1",
+          "loe": "C-LD",
+          "recommendation_ko": "의심 acute stroke에서 baseline ECG 평가를 권고하지만 IVT 또는 EVT 시작을 지연해서는 안 된다."
+        },
+        {
+          "number": 2,
+          "cor": "1",
+          "loe": "B-NR",
+          "recommendation_ko": "의심 acute stroke에서 baseline troponin 측정을 권고하지만 IVT 또는 EVT 시작을 지연해서는 안 된다."
+        }
+      ],
+      "key_points": [
+        "ECG는 부정맥, 심근허혈, stroke mechanism, 중증도 평가에 도움을 줄 수 있다.",
+        "troponin 상승은 cardioembolic mechanism 및 사망 위험 예측과 관련될 수 있다.",
+        "serial troponin의 최적 사용 시점은 ACS 동반 가능성, cardioembolic mechanism 의심, assay 특성에 따라 달라질 수 있어 추가 연구가 필요하다."
+      ]
+    },
+    {
+      "section_id": "4.1",
+      "section_title": "Airway, Breathing, and Oxygenation",
+      "page_range_in_pdf": "pp. e31-e34",
+      "core_message": "기도 보호와 산소화 유지가 핵심이며, hypoxia가 있으면 SpO2 >94%를 목표로 산소를 주지만 nonhypoxic AIS에서 일상적 산소 투여는 권고되지 않는다.",
+      "recommendations": [
+        {
+          "number": 1,
+          "cor": "1",
+          "loe": "C-LD",
+          "recommendation_ko": "의식저하 또는 bulbar dysfunction이 있는 acute stroke에서는 필요 시 airway support와 ventilatory assistance를 제공한다."
+        },
+        {
+          "number": 2,
+          "cor": "1",
+          "loe": "C-LD",
+          "recommendation_ko": "AIS에서 hypoxia가 있으면 SpO2 >94% 유지를 위해 supplemental oxygen을 제공한다."
+        },
+        {
+          "number": 3,
+          "cor": "2b",
+          "loe": "B-R",
+          "recommendation_ko": "발병 6시간 이내, NIHSS 10-20, CT ASPECTS >=6, anterior circulation LVO, EVT 예정 환자에서는 EVT 전 normobaric hyperoxia가 90일 기능예후 개선을 위해 합리적일 수 있다."
+        },
+        {
+          "number": 4,
+          "cor": "2b",
+          "loe": "B-NR",
+          "recommendation_ko": "arterial air embolism으로 인한 AIS에서는 hyperbaric oxygen을 고려할 수 있다."
+        },
+        {
+          "number": 5,
+          "cor": "3: No benefit",
+          "loe": "B-R",
+          "recommendation_ko": "hypoxia가 없고 EVT 대상이 아닌 AIS에서는 기능예후 개선 목적으로 supplemental oxygen을 권고하지 않는다."
+        },
+        {
+          "number": 6,
+          "cor": "3: No benefit",
+          "loe": "B-R",
+          "recommendation_ko": "air embolism과 관련 없는 AIS에서는 기능예후 개선 목적의 hyperbaric oxygen을 권고하지 않는다."
+        }
+      ],
+      "key_points": [
+        "기도유지/환기보조는 기도 보호 가능성, 환기·산소화 가능성, 임상 악화 가능성을 기준으로 판단한다.",
+        "hypoxia는 사망, 흡인, 폐렴, 호흡부전 위험과 관련된다.",
+        "nonhypoxic stroke에서 routine oxygen은 효과가 일관되지 않으며 hyperoxia 해로움 가능성이 있다.",
+        "NBO+EVT는 유망하지만 다양한 집단에서 대규모 검증이 필요하다.",
+        "cerebral air embolism에서는 HBO 시작이 빠를수록 예후가 좋을 가능성이 있다."
+      ]
+    },
+    {
+      "section_id": "4.2",
+      "section_title": "Head Positioning",
+      "page_range_in_pdf": "pp. e34-e35",
+      "core_message": "전체 AIS에서 0도 head positioning을 routine으로 시행해도 30도와 비교해 기능예후 이득은 없다.",
+      "recommendations": [
+        {
+          "number": 1,
+          "cor": "3: No benefit",
+          "loe": "B-R",
+          "recommendation_ko": "전체 AIS 환자에서 24시간 routine 0-degree head positioning은 30-degree positioning과 비교해 기능예후 개선 이득이 없다."
+        },
+        {
+          "number": 2,
+          "cor": "3: No benefit",
+          "loe": "B-R",
+          "recommendation_ko": "large artery atherosclerosis가 원인으로 추정되고 재관류치료가 불가능한 AIS에서 routine Trendelenburg positioning(-20도)은 0-30도 head positioning 대비 기능예후 개선 이득이 없다."
+        }
+      ],
+      "key_points": [
+        "0도 또는 head-down position은 penumbral blood flow를 증가시킬 가능성이 있지만 임상적 outcome 개선은 입증되지 않았다.",
+        "HeadPoST는 0도와 30도 간 90일 mRS 차이를 보이지 않았다.",
+        "일부 subgroup, 예: EVT 전 LVO 또는 perfusion 저하로 신경증상 변동이 있는 환자에서는 연구 필요성이 있다."
+      ]
+    },
+    {
+      "section_id": "4.3",
+      "section_title": "Blood Pressure Management",
+      "page_range_in_pdf": "pp. e35-e37",
+      "core_message": "재관류치료 여부에 따라 BP 목표가 다르며, IVT 전 <185/110, IVT 후 24시간 <180/105, EVT 전후 대체로 <=180/105를 사용한다. 과도한 intensive SBP lowering은 이득이 없거나 해로울 수 있다.",
+      "recommendation_groups": [
+        {
+          "group": "General recommendations including without reperfusion therapy",
+          "recommendations": [
+            {
+              "number": 1,
+              "cor": "1",
+              "loe": "C-LD",
+              "recommendation_ko": "AIS에서 hypotension과 hypovolemia는 장기기능 유지를 위한 systemic perfusion 확보 목적으로 교정한다."
+            },
+            {
+              "number": 2,
+              "cor": "1",
+              "loe": "C-EO",
+              "recommendation_ko": "acute coronary event, acute heart failure, aortic dissection, post-thrombolysis sICH, preeclampsia/eclampsia 등 동반질환 때문에 필요한 경우 early hypertension treatment를 시행한다."
+            },
+            {
+              "number": 3,
+              "cor": "2b",
+              "loe": "C-EO",
+              "recommendation_ko": "IVT/EVT를 받지 않았고 urgent antihypertensive indication이 없는 BP >=220/120 mmHg 환자에서 첫 48-72시간 내 고혈압 치료 시작/재시작의 이득은 불확실하다."
+            },
+            {
+              "number": 4,
+              "cor": "3: No benefit",
+              "loe": "A",
+              "recommendation_ko": "IVT/EVT를 받지 않았고 urgent indication이 없는 BP <220/120 mmHg 환자에서 첫 48-72시간 내 고혈압 치료 시작/재시작은 사망 또는 의존 예방에 효과적이지 않다."
+            }
+          ]
+        },
+        {
+          "group": "Before reperfusion treatment",
+          "recommendations": [
+            {
+              "number": 5,
+              "cor": "1",
+              "loe": "B-NR",
+              "recommendation_ko": "IVT 적격 AIS에서 BP가 상승해 있으면 IVT 전 SBP <185 mmHg 및 DBP <110 mmHg로 낮춘다."
+            },
+            {
+              "number": 6,
+              "cor": "2a",
+              "loe": "B-NR",
+              "recommendation_ko": "IVT를 받지 않았고 EVT 예정인 환자에서는 시술 전 BP <=185/110 mmHg 유지가 합리적이다."
+            }
+          ]
+        },
+        {
+          "group": "After IVT",
+          "recommendations": [
+            {
+              "number": 7,
+              "cor": "1",
+              "loe": "B-R",
+              "recommendation_ko": "IVT 후 최소 첫 24시간 BP를 <180/105 mmHg로 유지한다."
+            },
+            {
+              "number": 8,
+              "cor": "3: No benefit",
+              "loe": "B-R",
+              "recommendation_ko": "mild-to-moderate AIS에서 IVT 후 SBP <140 mmHg를 목표로 하는 intensive SBP reduction은 기능예후 개선이 없어 권고되지 않는다."
+            }
+          ]
+        },
+        {
+          "group": "After endovascular thrombectomy",
+          "recommendations": [
+            {
+              "number": 9,
+              "cor": "2a",
+              "loe": "B-NR",
+              "recommendation_ko": "EVT를 받은 환자는 시술 중 및 시술 후 24시간 BP <=180/105 mmHg 유지가 합리적이다."
+            },
+            {
+              "number": 10,
+              "cor": "3: Harm",
+              "loe": "A",
+              "recommendation_ko": "anterior circulation LVO가 EVT로 성공적 재개통(mTICI 2b/2c/3)되었고 다른 BP target indication이 없는 경우, 첫 72시간 SBP <140 mmHg 목표 intensive reduction은 해로우므로 권고되지 않는다."
+            }
+          ]
+        }
+      ],
+      "key_points": [
+        "동반질환이 없으면 BP를 급격히 낮추기보다 cerebral/systemic perfusion 균형을 고려한다.",
+        "중증 고혈압에서는 대개 초기 약 15% 감압을 고려하되 근거는 제한적이다.",
+        "IV alteplase RCT 프로토콜은 IVT 전 <185/110 mmHg를 요구했다.",
+        "IVT 후 SBP 140-180 mmHg 범위 유지가 일반적으로 권장된다.",
+        "EVT 성공 재개통 후 SBP <140 또는 <120 같은 intensive lowering은 기능독립 저하, 사망 증가, 초기 신경악화와 관련될 수 있다."
+      ],
+      "quick_targets": {
+        "no_reperfusion_no_urgent_indication": "BP <220/120이면 첫 48-72시간 active lowering 이득 없음; BP >=220/120이면 이득 불확실하나 개별화, 초기 약 15% 감압 고려",
+        "before_IVT": "SBP <185 and DBP <110 mmHg",
+        "after_IVT_first_24h": "BP <180/105 mmHg",
+        "before_EVT_without_IVT": "BP <=185/110 mmHg 합리적",
+        "during_and_after_EVT_24h": "BP <=180/105 mmHg 합리적",
+        "after_successful_EVT_recanalization": "다른 indication 없으면 SBP <140 mmHg intensive target 피함"
+      }
+    },
+    {
+      "section_id": "4.4",
+      "section_title": "Temperature Management",
+      "page_range_in_pdf": "p. e37",
+      "core_message": "AIS에서 hyperthermia는 normothermia를 목표로 적극 관리하고, normothermic AIS에서 예방적 hypothermia는 권고되지 않는다.",
+      "recommendations": [
+        {
+          "number": 1,
+          "cor": "1",
+          "loe": "B-R",
+          "recommendation_ko": "hyperthermia가 있는 AIS에서는 fever management nurse-initiated protocol 등을 포함해 normothermia를 목표로 하는 치료를 권고한다."
+        },
+        {
+          "number": 2,
+          "cor": "1",
+          "loe": "C-EO",
+          "recommendation_ko": "AIS와 hyperthermia가 있으면 감염 등 원인을 확인하고 치료한다."
+        },
+        {
+          "number": 3,
+          "cor": "3: No benefit",
+          "loe": "B-R",
+          "recommendation_ko": "normothermia 상태의 AIS에서 outcome 개선 목적으로 induced hypothermia 또는 prophylactic fever prevention은 권고되지 않는다."
+        }
+      ],
+      "key_points": [
+        "초기 입원기 고체온은 나쁜 기능예후 및 사망률 증가와 관련된다.",
+        "fever 원인으로 감염이 흔하며, central hyperthermia는 상대적으로 드물다.",
+        "hypothermia 연구들은 기능예후 이득을 보이지 않았고 adverse event 증가 가능성이 있다."
+      ]
+    },
+    {
+      "section_id": "4.5",
+      "section_title": "Blood Glucose Management",
+      "page_range_in_pdf": "pp. e37-e38",
+      "core_message": "저혈당은 교정하고, 지속 고혈당은 140-180 mg/dL 범위를 목표로 치료하되 80-130 mg/dL intensive IV insulin strategy는 권고되지 않는다.",
+      "recommendations": [
+        {
+          "number": 1,
+          "cor": "1",
+          "loe": "C-LD",
+          "recommendation_ko": "AIS에서 hypoglycemia, 즉 blood glucose <60 mg/dL는 합병증 방지를 위해 치료한다."
+        },
+        {
+          "number": 2,
+          "cor": "2a",
+          "loe": "C-LD",
+          "recommendation_ko": "AIS에서 persistent hyperglycemia는 기능예후 악화를 예방하기 위해 혈당 140-180 mg/dL 범위를 목표로 치료하는 것이 합리적이며, hypoglycemia 예방을 위해 면밀히 모니터링한다."
+        },
+        {
+          "number": 3,
+          "cor": "3: No benefit",
+          "loe": "A",
+          "recommendation_ko": "입원한 AIS 환자의 hyperglycemia에서 80-130 mg/dL 목표 IV insulin 치료는 3개월 기능예후 개선 목적으론 권고되지 않는다."
+        }
+      ],
+      "key_points": [
+        "hypoglycemia는 급성 뇌졸중을 mimic할 수 있다.",
+        "급성기 혈당과 사망/불량 기능예후 사이에는 J-shaped relationship이 있다.",
+        "SHINE trial에서 80-130 mg/dL intensive glucose control은 3개월 기능예후 이득이 없었고 severe hypoglycemia 위험이 있었다.",
+        "thrombolysis 또는 EVT 환자에서 intensive glucose control의 위험-이득은 아직 불명확하다.",
+        "GLP-1 receptor agonist가 stroke outcome 또는 poststroke hyperglycemia 조절에 도움이 되는지는 미확정이다."
+      ],
+      "quick_targets": {
+        "hypoglycemia_threshold": "<60 mg/dL: treat",
+        "reasonable_hyperglycemia_target": "140-180 mg/dL",
+        "avoid_intensive_IV_insulin_target": "80-130 mg/dL: no benefit for 3-month functional outcome"
+      }
+    }
+  ]
+}
